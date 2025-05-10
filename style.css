@@ -11,7 +11,7 @@ body{
 
 #container-login{
     width: 350px;
-    padding: 20px;
+    padding: 20px 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -22,7 +22,7 @@ body{
 #espaço-login{
     margin-top: 15px;
     background-color: white;
-    padding: 40px 30px;
+    padding: 40px 35px;
     box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 5px;
 }
